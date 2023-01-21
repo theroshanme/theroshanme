@@ -15,6 +15,4 @@ Hi 👋, I'm Roshan Khausiya<br><br>🔭 I’m currently working on Zenitsu WebA
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-[<img src="https://random-memer.herokuapp.com/" width="512px"/>](https://media.discordapp.net/attachments/994947495555768330/1066202420302065674/meme.jpeg?width=406&height=406)
 
