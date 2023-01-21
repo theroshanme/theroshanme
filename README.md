@@ -1,4 +1,4 @@
-https://pbs.twimg.com/profile_banners/2338685614/1671010887/1500x500
+<p><img src="https://pbs.twimg.com/profile_banners/2338685614/1671010887/1500x500" alt="" width="471" height="157" /></p>
 
 # 💫 About Me:
 Hi 👋, I'm Roshan Khausiya<br><br>🔭 I’m currently working on Zenitsu WebApp<br>🌱 I’m currently learning React <br>📫 How to reach me : hello@theroshan.me<br>⚡ Fun fact I have completed one-piece within 2 Months xd<br><br>
